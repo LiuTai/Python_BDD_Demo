@@ -1,0 +1,5 @@
+Feature: testing picturemanual.com
+  
+Scenario: visit picturemanual.com and check  
+   When we visit picturemanual.com
+   Then it should have a title "Picture Manual"  
